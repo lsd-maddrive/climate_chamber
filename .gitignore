@@ -622,6 +622,4 @@ MigrationBackup/
 # Ignore .env file
 .env
 
-.idea/cd climate_chamber
-
 .idea/
